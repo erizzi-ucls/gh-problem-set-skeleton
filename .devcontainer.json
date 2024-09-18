@@ -6,6 +6,18 @@
   },
   "settings": {
     "workbench.colorTheme": "Solarized Dark"
+  },
+  "remoteUser": "vscode",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached",
+  "workspaceFolder": "/workspace",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-vscode.vscode-workspace-manager"],
+      "settings": {
+        "workspaceManager.openMode": "singleFile",
+        "workspaceManager.filePath": "/workspace/ps-skeleton.code-workspace"
+      }
+    }
   }
 }
 
