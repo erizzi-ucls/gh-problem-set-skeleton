@@ -15,7 +15,7 @@
       "extensions": ["ms-vscode.vscode-workspace-manager"],
       "settings": {
         "workspaceManager.openMode": "singleFile",
-        "workspaceManager.filePath": "/workspace/ps-skeleton.code-workspace"
+        "workspaceManager.filePath": "/workspace/gh-problem-set-skeleton/ps-skeleton.code-workspace"
       }
     }
   }
